@@ -1,4 +1,4 @@
-package examples.pet;
+package api.pet;
 
 import com.intuit.karate.junit5.Karate;
 
