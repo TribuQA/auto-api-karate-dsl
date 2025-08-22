@@ -31,8 +31,8 @@ Se han automatizado pruebas para los siguientes m√©todos del recurso `/pet` seg√
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo-karate-petstore.git
-cd tu-repo-karate-petstore
+git clone https://github.com/TribuQA/auto-api-karate-dsl.git
+cd auto-api-karate-dsl.git
 ```
 
 2. **Verifica que tienes instalado:**
